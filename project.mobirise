@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "terms.html",
+    "currentPage": "How it works..html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,8 +21,10 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 31,
-    "versionPublish": "3.11.1"
+    "uniqCompNum": 32,
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -40,6 +42,11 @@
             "Theme"
           ],
           "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "48px"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -94,12 +101,7 @@
             "showBullets": true
           },
           "_anchor": "slider-s",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-size": "48px"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_styles": {
@@ -195,8 +197,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ZEROREFFERALS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"terms.html\" aria-expanded=\"false\">TERMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How it works..html\" aria-expanded=\"false\">HOW IT WORKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Signup.html\" target=\"_blank\">SIGNUP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Signup.html\" target=\"_blank\">LOGIN</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ZEROREFFERALS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">TERMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How it works..html\" aria-expanded=\"false\">HOW IT WORKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Signup.html\">SIGNUP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Signup.html\" target=\"_blank\">LOGIN</a></li>"
         },
         {
           "_tags": [
@@ -471,6 +473,83 @@
             "bgColor": "#fff"
           },
           "text": "<p><b>As earlier stated above, the system is the first of its type that pays it member without any referral. It a Mutual Aid Programme.</b></p><p><b>When a member registers free of charge, the member will have 24 hours (1 day) to donate a minimum of &nbsp;10,000 &nbsp;thousand Naira to </b></p><p><b><br></b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">A member is to be matched. This is one time donation, Once you complete your donation, You will be matched with three other new</b><span style=\"font-size: 1.07rem; line-height: 1.5;\">&nbsp;</span><b style=\"font-size: 1.07rem; line-height: 1.5;\">members to donate same amount you donated to your upline.</b></p><p><b><br></b></p><p><b>Members are expected to introduce &nbsp;new members &nbsp;so they can also &nbsp;provide and they stand to benefit from our exceptional compensation plan. You don't need to refer someone before you receive your money, but you receive extra bonus each time immediately every single person comes to join you.</b></p><p><b><br></b></p><p><b>Zerorefferals is a network of individuals which is commited in helping people to achieve their financial goals .</b></p><p><b>With just N10,000 you can earn millions with this &nbsp;easy steps. This is how!</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">You become a zerorefferer Affiliate by paying N10,000 to your sponsor or referrer within 24 hours of your registration.</b><br></p><p><b><br></b></p><p><b>The system works on a 3x1 matrix, 10k to get 30k, you will get 300percent of your intial deposit and must re provide help 100%</b></p><p><b>within 24hours to avoid being deleted .plese make sure you have your money available before signing up.</b></p><p><b><br></b></p><p><b>Zero refferal system is a no-refferal unique plan that pays. So far, many new platforms have come up and copied our style. Now watch it, as we change our style TODAY, many of them will copy. PayCycler leads, while others copy.</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Zerorefferals is the world's foremost digital community that increases your net worth while encouraging knowledge acquisition..</b><br></p><p><b>Just N10,000 is required.. You don't ever lose!</b></p><p><b><br></b></p><p><b>If a sponsors mobile is switched off or not answering calls for about &nbsp;8 Hours, Zerorefferals will have that account blocked.</b></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">Always be online if you must suceed with Zero Refferals.</b><br></p><p><b style=\"font-size: 1.07rem; line-height: 1.5;\">If a sponsor fails to activate his/her referral after receiving payment, Twinkas will have that account and subsequent accounts connected to your bank and mobile number blocked.</b><br></p><p><b><br></b></p><p><b>Zerorefferals works on a First-Come-First-Served basis, so the earlier you register the better for you. So if you have confirmed four people,&nbsp;</b></p><p><b><br></b></p><p><b>But if you are new here, register now by clicking the signup button at the top right (if you are using a PC). After Registration, login by clicking the Login button beside the Signup button at the top right and pay the person you are paired with.</b></p>"
+        },
+        {
+          "_inherit": "testimonials2",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials4",
+          "testimonial": [
+            {
+              "text": "\"its really very amazing experience that I made 100k in two days ( that's usually takes more than three month at least from me if i work day and night). Thank you\"",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Anas S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "\"First of all hands off to you guys for your effort and nice, super system. Good work joyfuldonor team. Great effort, even without refering any user I got my complete payment .\"",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jerry A.",
+              "authorBio": "User"
+            },
+            {
+              "text": "\"The system is so simple and instant matching and deleting of unpaid user within 24 hours. It gave me more control over my downline.\"",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "<br>Femi C.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials4-v",
+          "_params": {
+            "count": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/holding-us-naira-5-2000x1324.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": false,
+            "showName": true,
+            "showBio": false
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          }
         },
         {
           "_inherit": "social-buttons2",
@@ -766,8 +845,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ZEROREFFERALS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"terms.html\" aria-expanded=\"false\">TERMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How it works..html\" aria-expanded=\"false\">HOW IT WORKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Signup.html\" target=\"_blank\">SIGNUP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Signup.html\" target=\"_blank\">LOGIN</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ZEROREFFERALS</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#bottom\" aria-expanded=\"false\">TERMS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"How it works..html\" aria-expanded=\"false\">HOW IT WORKS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"Signup.html\">SIGNUP</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"Signup.html\" target=\"_blank\">LOGIN</a></li>"
         }
       ]
     },
