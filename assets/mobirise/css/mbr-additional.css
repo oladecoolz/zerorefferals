@@ -431,11 +431,11 @@ h6,
   color: #ffffff;
 }
 #menu-0 .link {
-  font-size: 0.75rem;
+  font-size: 0.9rem;
 }
 #menu-0 .dropdown-item,
 #menu-0 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 0.975rem;
 }
 #menu-0 .link:hover,
 #menu-0 .dropdown-item:hover,
@@ -848,79 +848,5 @@ h6,
   background-color: #ffffff;
 }
 #menu-k .btn {
-  font-family: 'Noto Sans', sans-serif;
-}
-
-
-#menu-o .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-o .navbar-caption {
-  color: #ffffff;
-  font-size: 30px;
-  font-family: 'Noto Sans', sans-serif;
-}
-#menu-o .navbar-toggler {
-  color: #ffffff;
-}
-#menu-o .link,
-#menu-o .dropdown-item {
-  color: #ffffff;
-}
-#menu-o .link {
-  font-size: 0.75rem;
-}
-#menu-o .dropdown-item,
-#menu-o .nav-dropdown-sm .link {
-  font-size: 0.812rem;
-}
-#menu-o .link:hover,
-#menu-o .dropdown-item:hover,
-#menu-o .link:focus,
-#menu-o .dropdown-item:focus {
-  color: #3d8eb9;
-}
-#menu-o .link[aria-expanded="true"],
-#menu-o .dropdown-menu {
-  background: #8f2625;
-}
-#menu-o .nav-dropdown-sm .link:focus,
-#menu-o .nav-dropdown-sm .link:hover,
-#menu-o .nav-dropdown-sm .dropdown-item:focus,
-#menu-o .nav-dropdown-sm .dropdown-item:hover {
-  background: #ac2e2c!important;
-}
-#menu-o .navbar,
-#menu-o .nav-dropdown-sm,
-#menu-o .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-o .nav-dropdown-sm .dropdown-menu {
-  background: #b8312f;
-}
-#menu-o .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-o .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-o .bg-color.transparent.opened .link:hover,
-#menu-o .bg-color.transparent.opened .link:focus {
-  color: #3d8eb9;
-}
-#menu-o .link[aria-expanded="true"],
-#menu-o .dropdown-item[aria-expanded="true"] {
-  color: #3d8eb9!important;
-}
-#menu-o.mbr-navbar--stuck .mbr-navbar__section {
-  background: #2c2c2c;
-}
-#menu-o .mbr-navbar__hamburger {
-  color: #ffffff;
-}
-#menu-o .close-icon::before,
-#menu-o .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-o .btn {
   font-family: 'Noto Sans', sans-serif;
 }
